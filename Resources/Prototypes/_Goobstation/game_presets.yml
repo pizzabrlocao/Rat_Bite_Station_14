@@ -174,7 +174,7 @@
     - calmdynamic
   name: sleeper-title
   description: sleeper-description
-  showInVote: true
+  showInVote: false #Ratbite, Secret Supremacy
   minPlayers: 3 # Ratbites, lowering pop needed.
   rules:
     - PermaBrig # RatBite - Multi-Round brig system
@@ -191,7 +191,7 @@
     - combatdynamic
   name: guide-title
   description: guide-description
-  showInVote: true # Ratbites, Reintroducing Gamedirector as its more stable than secret+
+  showInVote: false #Ratbite, Secret Supremacy
   minPlayers: 18 # Ratbites, lowering pop needed.
   rules:
     - PermaBrig # RatBite - Multi-Round brig system
@@ -251,7 +251,7 @@
     - survivalnew
   name: survivalplus-title
   description: survivalplus-description
-  showInVote: true #Keep it for now, but may also be butched.
+  showInVote: false #Ratbite, Secret Supremacy
   rules:
     - PermaBrig # RatBite - Multi-Round brig system
     - SecretPlusRampingMid
