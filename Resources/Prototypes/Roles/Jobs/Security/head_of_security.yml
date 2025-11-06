@@ -139,8 +139,8 @@
   description: job-description-hos
   playTimeTracker: JobHeadOfSecurity
   requirements:
-   
-   
+
+
     - !type:DepartmentTimeRequirement
       department: Security
       time: 10800 # 3 hrs

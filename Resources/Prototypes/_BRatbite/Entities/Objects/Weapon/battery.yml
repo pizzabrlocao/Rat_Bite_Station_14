@@ -110,8 +110,8 @@
     - Sidearm
   - type: StaticPrice
     price: 750
-  - type: FiringPin 
-  - type: Lock 
+  - type: FiringPin
+  - type: Lock
     locked: true
-  - type: AccessReader 
+  - type: AccessReader
     access: [ [ "Security" ] ]
