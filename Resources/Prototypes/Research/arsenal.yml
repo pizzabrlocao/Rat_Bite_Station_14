@@ -114,9 +114,6 @@
   - MagazineBoxMagnumIncendiary
   # - MagazineBoxLightRifleIncendiary # Goobstation - remove light rifle
   - MagazineBoxRifleIncendiary
-  - EnergyMagPistolOverchargeLethal # Ratbite station - more sidearm slop
-  - SpeedLoader38MagnumIncendiary # Ratbite station - more sidearm slop
-  - MagazineBox38MagnumIncendiary # Ratbite station - more sidearm slop
   # Goobstation R&D Console rework start
   position: 2,2
   technologyPrerequisites:
@@ -138,7 +135,6 @@
   - WeaponMechCombatFiredartLaser # Goobstation
   - WeaponEnergyIonRifle # Goobstation - CR second energy bolt update(and ion)
   - PowerCellIonRevolver # Goobstation
-  - EnergyMagPistolIon # Ratbite station - More sidearm slop
   # Goobstation R&D Console rework start
   position: 4,0
   technologyPrerequisites:
@@ -188,8 +184,6 @@
   - MagazineBoxRifleUranium
   - BoxShotgunUranium
   - MagazineBoxShotgunUraniumHighCaliber # Goobstation
-  - SpeedLoader38MagnumUranium # Ratbite station - more sidearm slop
-  - MagazineBox38MagnumUranium # Ratbite station - more sidearm slop
   # Goobstation R&D Console rework start
   position: 3,2
   technologyPrerequisites:

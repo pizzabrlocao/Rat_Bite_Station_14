@@ -115,16 +115,3 @@
   minLimit: 1
   loadouts:
   - EngiGuardInsideJumpsuit
-
-# Security Officer Sidearm Weapon
-
-- type: loadoutGroup
-  id: SecuritySidearm
-  name: Security Sidearm
-  minLimit: 1
-  loadouts:
-  - MK58WeaponCases
-  - EP12WeaponCases
-  - PEW1WeaponCases
-  - ShieldWeaponCases
-  - LuckyRevolverWeaponCases

@@ -112,9 +112,9 @@
   equipment:
     eyes: ClothingEyesGlassesSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    #pocket1: WeaponPistolMk58 #RatBite - more sidearm slop
+    pocket1: WeaponPistolMk58
   storage:
     back:
     - Flash
-    #- MagazinePistol #RatBite - more sidearm slop
+    - MagazinePistol
     - ClothingMaskGasSecurity # Goobstation

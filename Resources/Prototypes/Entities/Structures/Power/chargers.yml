@@ -241,8 +241,6 @@
           - ProjectileBatteryAmmoProvider
           - Stunbaton
           - PowerCell
-          tags: # RatBitesStation - also this exist on goob code too
-          - FitsInCharger
         blacklist:
           tags:
           - PotatoBattery
