@@ -1,5 +1,5 @@
 selectable-set-security-shield-name = Security Energy Shield kit
-selectable-set-security-shield-description = This energy shield can mostly block most common attack in your line of duty. Do note that you be loosing your only lethal weapon as this shield are meant to be pair with other weapon.
+selectable-set-security-shield-description = This energy shield can mostly block most common attack in your line of duty. Do note that you be loosing your only lethal weapon as this shield are meant to be pair with other weapons.
 
 selectable-set-security-EP12-name = EP-12 Energy Pistol kit
 selectable-set-security-EP12-description = As part of nanotransen way to reduce steel usage and avoid having janitor to clean up mess of cartridge. This energy pistol is meant to be a direct alternative to the classic mk58 that everyone comfortable with. Come with 2 extra battery magazine.
